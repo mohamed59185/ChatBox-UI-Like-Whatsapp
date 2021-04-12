@@ -6,7 +6,7 @@
 }
 .container {
   width: 500px;
-
+  margin: auto;
 }
 .chat {
   display: block;
@@ -59,9 +59,7 @@
   width: 25px;
   margin-left: 10px;
 }
-.profile .left {
-  flex: 1;
-}
+.profile .left {}
 
 .chat-box {
   background: url('../img/bg.jpeg');
